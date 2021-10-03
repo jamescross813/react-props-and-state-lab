@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 class Filters extends React.Component {
   render() {
     return (
@@ -15,7 +16,7 @@ class Filters extends React.Component {
         </div>
 
         <div className="field">
-          <button className="ui secondary button">Find pets</button>
+          <button className="ui secondary button" >Find pets</button>
         </div>
       </div>
     )
